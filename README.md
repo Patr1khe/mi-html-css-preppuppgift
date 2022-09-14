@@ -6,3 +6,5 @@ Patrik
 Student
 
 Front End Developer
+
+Medieinstitutet 
