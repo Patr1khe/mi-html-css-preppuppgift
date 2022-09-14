@@ -1,3 +1,5 @@
 # mi-html-css-preppuppgift
-Förberedande uppgift i HTML &amp; CSS-kursen
-Hej världen!
+Hej allihopa :)
+Patrik He
+Student
+Front End Developer
