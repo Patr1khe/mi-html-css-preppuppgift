@@ -1,6 +1,8 @@
 # mi-html-css-preppuppgift
 Hej allihopa :)
 
-Patrik He
+Patrik
+
 Student
+
 Front End Developer
