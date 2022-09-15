@@ -8,3 +8,5 @@ Student
 Front End Developer
 
 Medieinstitutet 
+
+:)
